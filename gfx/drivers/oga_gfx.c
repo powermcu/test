@@ -47,8 +47,8 @@
 
 #define ALIGN(val, align)   (((val) + (align) - 1) & ~((align) - 1))
 
-#define NATIVE_WIDTH 480
-#define NATIVE_HEIGHT 320
+#define NATIVE_WIDTH 800
+#define NATIVE_HEIGHT 480
 
 #define NUM_PAGES 2
 
